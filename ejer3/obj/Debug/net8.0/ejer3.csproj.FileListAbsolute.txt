@@ -1,0 +1,64 @@
+C:\Users\yesid.toloza\Downloads\ejer3\ejer3\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\yesid.toloza\Downloads\ejer3\ejer3\bin\Debug\net8.0\appsettings.json
+C:\Users\yesid.toloza\Downloads\ejer3\ejer3\bin\Debug\net8.0\ejer3.exe
+C:\Users\yesid.toloza\Downloads\ejer3\ejer3\bin\Debug\net8.0\ejer3.deps.json
+C:\Users\yesid.toloza\Downloads\ejer3\ejer3\bin\Debug\net8.0\ejer3.runtimeconfig.json
+C:\Users\yesid.toloza\Downloads\ejer3\ejer3\bin\Debug\net8.0\ejer3.dll
+C:\Users\yesid.toloza\Downloads\ejer3\ejer3\bin\Debug\net8.0\ejer3.pdb
+C:\Users\yesid.toloza\Downloads\ejer3\ejer3\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\yesid.toloza\Downloads\ejer3\ejer3\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\yesid.toloza\Downloads\ejer3\ejer3\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\yesid.toloza\Downloads\ejer3\ejer3\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\yesid.toloza\Downloads\ejer3\ejer3\obj\Debug\net8.0\ejer3.csproj.AssemblyReference.cache
+C:\Users\yesid.toloza\Downloads\ejer3\ejer3\obj\Debug\net8.0\ejer3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yesid.toloza\Downloads\ejer3\ejer3\obj\Debug\net8.0\ejer3.AssemblyInfoInputs.cache
+C:\Users\yesid.toloza\Downloads\ejer3\ejer3\obj\Debug\net8.0\ejer3.AssemblyInfo.cs
+C:\Users\yesid.toloza\Downloads\ejer3\ejer3\obj\Debug\net8.0\ejer3.csproj.CoreCompileInputs.cache
+C:\Users\yesid.toloza\Downloads\ejer3\ejer3\obj\Debug\net8.0\ejer3.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\yesid.toloza\Downloads\ejer3\ejer3\obj\Debug\net8.0\ejer3.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\yesid.toloza\Downloads\ejer3\ejer3\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\yesid.toloza\Downloads\ejer3\ejer3\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\yesid.toloza\Downloads\ejer3\ejer3\obj\Debug\net8.0\staticwebassets\msbuild.ejer3.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\yesid.toloza\Downloads\ejer3\ejer3\obj\Debug\net8.0\staticwebassets\msbuild.build.ejer3.props
+C:\Users\yesid.toloza\Downloads\ejer3\ejer3\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ejer3.props
+C:\Users\yesid.toloza\Downloads\ejer3\ejer3\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ejer3.props
+C:\Users\yesid.toloza\Downloads\ejer3\ejer3\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\yesid.toloza\Downloads\ejer3\ejer3\obj\Debug\net8.0\scopedcss\bundle\ejer3.styles.css
+C:\Users\yesid.toloza\Downloads\ejer3\ejer3\obj\Debug\net8.0\ejer3.csproj.CopyComplete
+C:\Users\yesid.toloza\Downloads\ejer3\ejer3\obj\Debug\net8.0\ejer3.dll
+C:\Users\yesid.toloza\Downloads\ejer3\ejer3\obj\Debug\net8.0\refint\ejer3.dll
+C:\Users\yesid.toloza\Downloads\ejer3\ejer3\obj\Debug\net8.0\ejer3.pdb
+C:\Users\yesid.toloza\Downloads\ejer3\ejer3\obj\Debug\net8.0\ejer3.genruntimeconfig.cache
+C:\Users\yesid.toloza\Downloads\ejer3\ejer3\obj\Debug\net8.0\ref\ejer3.dll
+C:\Users\yesid.toloza\Downloads\Yesid Toloza\Talleres\Programas\Ejercicio Apis\ejer3\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\yesid.toloza\Downloads\Yesid Toloza\Talleres\Programas\Ejercicio Apis\ejer3\bin\Debug\net8.0\appsettings.json
+C:\Users\yesid.toloza\Downloads\Yesid Toloza\Talleres\Programas\Ejercicio Apis\ejer3\bin\Debug\net8.0\ejer3.exe
+C:\Users\yesid.toloza\Downloads\Yesid Toloza\Talleres\Programas\Ejercicio Apis\ejer3\bin\Debug\net8.0\ejer3.deps.json
+C:\Users\yesid.toloza\Downloads\Yesid Toloza\Talleres\Programas\Ejercicio Apis\ejer3\bin\Debug\net8.0\ejer3.runtimeconfig.json
+C:\Users\yesid.toloza\Downloads\Yesid Toloza\Talleres\Programas\Ejercicio Apis\ejer3\bin\Debug\net8.0\ejer3.dll
+C:\Users\yesid.toloza\Downloads\Yesid Toloza\Talleres\Programas\Ejercicio Apis\ejer3\bin\Debug\net8.0\ejer3.pdb
+C:\Users\yesid.toloza\Downloads\Yesid Toloza\Talleres\Programas\Ejercicio Apis\ejer3\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\yesid.toloza\Downloads\Yesid Toloza\Talleres\Programas\Ejercicio Apis\ejer3\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\yesid.toloza\Downloads\Yesid Toloza\Talleres\Programas\Ejercicio Apis\ejer3\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\yesid.toloza\Downloads\Yesid Toloza\Talleres\Programas\Ejercicio Apis\ejer3\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\yesid.toloza\Downloads\Yesid Toloza\Talleres\Programas\Ejercicio Apis\ejer3\obj\Debug\net8.0\ejer3.csproj.AssemblyReference.cache
+C:\Users\yesid.toloza\Downloads\Yesid Toloza\Talleres\Programas\Ejercicio Apis\ejer3\obj\Debug\net8.0\ejer3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yesid.toloza\Downloads\Yesid Toloza\Talleres\Programas\Ejercicio Apis\ejer3\obj\Debug\net8.0\ejer3.AssemblyInfoInputs.cache
+C:\Users\yesid.toloza\Downloads\Yesid Toloza\Talleres\Programas\Ejercicio Apis\ejer3\obj\Debug\net8.0\ejer3.AssemblyInfo.cs
+C:\Users\yesid.toloza\Downloads\Yesid Toloza\Talleres\Programas\Ejercicio Apis\ejer3\obj\Debug\net8.0\ejer3.csproj.CoreCompileInputs.cache
+C:\Users\yesid.toloza\Downloads\Yesid Toloza\Talleres\Programas\Ejercicio Apis\ejer3\obj\Debug\net8.0\ejer3.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\yesid.toloza\Downloads\Yesid Toloza\Talleres\Programas\Ejercicio Apis\ejer3\obj\Debug\net8.0\ejer3.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\yesid.toloza\Downloads\Yesid Toloza\Talleres\Programas\Ejercicio Apis\ejer3\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\yesid.toloza\Downloads\Yesid Toloza\Talleres\Programas\Ejercicio Apis\ejer3\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\yesid.toloza\Downloads\Yesid Toloza\Talleres\Programas\Ejercicio Apis\ejer3\obj\Debug\net8.0\staticwebassets\msbuild.ejer3.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\yesid.toloza\Downloads\Yesid Toloza\Talleres\Programas\Ejercicio Apis\ejer3\obj\Debug\net8.0\staticwebassets\msbuild.build.ejer3.props
+C:\Users\yesid.toloza\Downloads\Yesid Toloza\Talleres\Programas\Ejercicio Apis\ejer3\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ejer3.props
+C:\Users\yesid.toloza\Downloads\Yesid Toloza\Talleres\Programas\Ejercicio Apis\ejer3\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ejer3.props
+C:\Users\yesid.toloza\Downloads\Yesid Toloza\Talleres\Programas\Ejercicio Apis\ejer3\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\yesid.toloza\Downloads\Yesid Toloza\Talleres\Programas\Ejercicio Apis\ejer3\obj\Debug\net8.0\scopedcss\bundle\ejer3.styles.css
+C:\Users\yesid.toloza\Downloads\Yesid Toloza\Talleres\Programas\Ejercicio Apis\ejer3\obj\Debug\net8.0\ejer3.csproj.CopyComplete
+C:\Users\yesid.toloza\Downloads\Yesid Toloza\Talleres\Programas\Ejercicio Apis\ejer3\obj\Debug\net8.0\ejer3.dll
+C:\Users\yesid.toloza\Downloads\Yesid Toloza\Talleres\Programas\Ejercicio Apis\ejer3\obj\Debug\net8.0\refint\ejer3.dll
+C:\Users\yesid.toloza\Downloads\Yesid Toloza\Talleres\Programas\Ejercicio Apis\ejer3\obj\Debug\net8.0\ejer3.pdb
+C:\Users\yesid.toloza\Downloads\Yesid Toloza\Talleres\Programas\Ejercicio Apis\ejer3\obj\Debug\net8.0\ejer3.genruntimeconfig.cache
+C:\Users\yesid.toloza\Downloads\Yesid Toloza\Talleres\Programas\Ejercicio Apis\ejer3\obj\Debug\net8.0\ref\ejer3.dll
